@@ -4,11 +4,12 @@ PC-X is a well-structured framework for deep clustering with superior potential 
 We will upload the code soon. 
 
 Please consider cite our code if you find the content is helpful. 
-@inproceedings{
-pan2023pcx,
-title={{PC}-X: Profound Clustering via Slow Exemplars},
-author={Yuangang Pan and Yinghua Yao and Ivor Tsang},
-booktitle={Conference on Parsimony and Learning (Proceedings Track)},
-year={2023},
-url={https://openreview.net/forum?id=yhGKPtRoOx}
+
+@inproceedings{\\
+pan2023pcx,\\
+title={{PC}-X: Profound Clustering via Slow Exemplars},\\
+author={Yuangang Pan and Yinghua Yao and Ivor Tsang},\\
+booktitle={Conference on Parsimony and Learning (Proceedings Track)},\\
+year={2023},\\
+url={https://openreview.net/forum?id=yhGKPtRoOx}\\
 }
