@@ -3,7 +3,7 @@ PC-X is a well-structured framework for deep clustering with superior potential 
 
 We will upload the code soon. 
 
-Please consider cite our code if you find the content is helpful. 
+Please consider cite our paper if you find the content is helpful. 
 
 @inproceedings{\\
 pan2023pcx,\\
