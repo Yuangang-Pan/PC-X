@@ -5,11 +5,11 @@ We will upload the code soon.
 
 Please consider cite our paper if you find the content is helpful. 
 
-@inproceedings{\\
-pan2023pcx,\\
-title={{PC}-X: Profound Clustering via Slow Exemplars},\\
-author={Yuangang Pan and Yinghua Yao and Ivor Tsang},\\
-booktitle={Conference on Parsimony and Learning (Proceedings Track)},\\
-year={2023},\\
-url={https://openreview.net/forum?id=yhGKPtRoOx}\\
+@inproceedings{<br>
+pan2023pcx,<br>
+title={{PC}-X: Profound Clustering via Slow Exemplars},<br>
+author={Yuangang Pan and Yinghua Yao and Ivor Tsang},<br>
+booktitle={Conference on Parsimony and Learning (Proceedings Track)},<br>
+year={2023},<br>
+url={https://openreview.net/forum?id=yhGKPtRoOx}<br>
 }
